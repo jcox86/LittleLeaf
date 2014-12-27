@@ -1,0 +1,33 @@
+{
+  "name": "transit",
+  "version": "0.1.5",
+  "main": "dist/transit.js",
+  "homepage": "https://github.com/ratchagarn/transit",
+  "authors": [
+    "Ratchagarn <ratchagarn@gmail.com>"
+  ],
+  "description": "Export javascript code available to the javascript file.",
+  "keywords": [
+    "exports",
+    "require"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo"
+  ],
+  "_release": "0.1.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.5",
+    "commit": "26553f4127d4f0e5779d5cefca6efd6116d4c4cf"
+  },
+  "_source": "git://github.com/ratchagarn/transit.git",
+  "_target": "~0.1.5",
+  "_originalSource": "transit",
+  "_direct": true
+}
